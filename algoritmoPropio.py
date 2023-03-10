@@ -68,7 +68,7 @@ def main():
             m2=1
             b=1
 
-            print("20000 Iterations Absolute")
+            print("2000 Iterations Absolute")
             for i in range(2000):
                 m1, m2, b = func3(m1, m2, b, h)
             # print comparation
